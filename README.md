@@ -1,5 +1,42 @@
 # 💫 About Me:
-# 👋 Hey there, I'm Kesavan  <br><br>💡 **AI Developer** | 🌐 **MERN Stack Enthusiast** | ✨ **Creative Builder**  <br><br>I'm passionate about crafting **AI-driven solutions** 🤖 and building **scalable web applications** using the **MERN stack** ⚛️🟢.  <br>I love turning **ideas into reality** through **JavaScript magic** ✨ and solving problems with **innovation + code**.  <br><br>---<br><br>## 🚀 About Me<br>- 🔭 Currently exploring **AI + Web integrations**  <br>- 🌱 Learning & experimenting with **advanced ML models**  <br>- 💻 Skilled in: **JavaScript, React, Node.js, Express, MongoDB**  <br>- 🎨 Also enjoy **thumbnail design & video editing** (2+ years experience)  <br>- ⚡ Fun fact: I love mixing **creativity with technology**  <br><br>---<br><br>## 🛠️ Tech Stack<br>- **Languages:** JavaScript 🟨 | Python 🐍  <br>- **Frontend:** React ⚛️ | HTML 🖋️ | CSS 🎨  <br>- **Backend:** Node.js 🟢 | Express 🚂  <br>- **Database:** MongoDB 🍃  <br>- **AI/ML:** Machine Learning 🤖 | AI Tools 🧠  <br><br>---<br><br>## 📫 Connect with Me<br>🌟 Always open to collaborations & exciting projects!  <br>📧 [Your Email Here]  <br>💼 [LinkedIn / Portfolio Link]  <br>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding GIF">
+👋 Hey there, I'm Kesavan
+
+🚀 AI Developer | 🤖 Machine Learning & Deep Learning | 🧹 Data Cleaning 
+
+🌟 About Me
+
+🧠 Passionate about building AI-powered solutions that make life easier
+
+📊 Skilled in machine learning, deep learning, and data preprocessing
+
+💡 Always curious about data-driven problem solving
+
+🎨 Exploring creative coding with JavaScript for interactive projects
+
+🔍 Love to transform raw data into meaningful insights
+
+⚡ What I Do
+
+🤖 Train and deploy ML/DL models
+
+🧹 Clean & prepare messy datasets into gold ✨
+
+💻 Develop frontend projects with JavaScript
+
+🔬 Experiment with new AI trends and technologies
+
+🌱 Currently I learning DSA and Web Development
+
+🔥 Exploring advanced deep learning architectures
+
+📈 Improving my data engineering & visualization skills
+
+🛠️ Building projects that combine AI + Web Development 
+
+😃 Fun Fact : 🦾 Believe that - AI won’t replace humans, but humans with AI will replace humans without AI.
+
+<br>
 
 
 ## 🌐 Socials:
