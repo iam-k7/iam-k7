@@ -1,9 +1,10 @@
-# 👋 Hey there, I'm Kesavan
+# 👋 Hey there, I'm *KESAVAN*
+
+**AI Developer | Machine Learning & Deep Learning | Data Cleaning**
+
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding GIF">
 
-🚀 AI Developer | 🤖 Machine Learning & Deep Learning | 🧹 Data Cleaning 
-
-🌟 Here's my <a href="" > Portfolio </a>
+🔭 View my <a href="" > Portfolio </a>
 
 📊 Skilled in machine learning, deep learning, data preprocessing, and mern stack
 
