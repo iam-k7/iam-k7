@@ -3,17 +3,11 @@
 
 🚀 AI Developer | 🤖 Machine Learning & Deep Learning | 🧹 Data Cleaning 
 
-🌟 About Me
-
-🧠 Passionate about building AI-powered solutions that make life easier
+🌟 Here's my <a href="" > Portfolio </a>
 
 📊 Skilled in machine learning, deep learning, data preprocessing, and mern stack
 
 🎨 Exploring creative coding with JavaScript for interactive projects
-
-⚡ What I Do :
-
-🤖 Train and deploy ML/DL models
 
 🧹 Clean & prepare messy datasets into gold ✨
 
@@ -21,13 +15,11 @@
 
 🔬 Experiment with new AI trends and technologies
 
-🌱 Currently I learning DSA and Web Development & Design
-
-🔥 Exploring advanced deep learning architectures
-
 📈 Improving my data engineering & visualization skills
 
 🛠️ Building projects that combine AI + Web Development 
+
+🌱 Currently I learning DSA and Web Development & Design
 
 😃 Fun Fact : 🦾 Believe that - AI won’t replace humans, but humans with AI will replace humans without AI.
 
