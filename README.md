@@ -1,6 +1,5 @@
-# 💫 About Me:
+# 👋 Hey there, I'm Kesavan
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding GIF">
-👋 Hey there, I'm Kesavan
 
 🚀 AI Developer | 🤖 Machine Learning & Deep Learning | 🧹 Data Cleaning 
 
@@ -8,15 +7,11 @@
 
 🧠 Passionate about building AI-powered solutions that make life easier
 
-📊 Skilled in machine learning, deep learning, and data preprocessing
-
-💡 Always curious about data-driven problem solving
+📊 Skilled in machine learning, deep learning, data preprocessing, and mern stack
 
 🎨 Exploring creative coding with JavaScript for interactive projects
 
-🔍 Love to transform raw data into meaningful insights
-
-⚡ What I Do
+⚡ What I Do :
 
 🤖 Train and deploy ML/DL models
 
@@ -26,7 +21,7 @@
 
 🔬 Experiment with new AI trends and technologies
 
-🌱 Currently I learning DSA and Web Development
+🌱 Currently I learning DSA and Web Development & Design
 
 🔥 Exploring advanced deep learning architectures
 
@@ -60,20 +55,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iam-k7&icon=1&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
-<!--
-**iam-k7/iam-k7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
