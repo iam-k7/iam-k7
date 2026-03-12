@@ -24,10 +24,10 @@
 <a href="https://www.linkedin.com/in/7kesavan/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/i@mk7/" target="blank">
+<a href="https://www.instagram.com/_k_e_s_a_v_a_n_/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
-<a href="https://www.discord.com/kesavana/" target="blank">
+<a href="https://discord.com/users/kesavana" target="blank">
   <img src="https://skillicons.dev/icons?i=discord" alt="Instagram" />
 </a> 
 
@@ -39,11 +39,11 @@
 **Also comfortable with**: Gen AI, OpenCV, Postgres, CI/CD pipelines, Basic ML workflows.
 
 ## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Priya-ak&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priya-ak&theme=tokyonight" />
-</p>
+<!-- Stats card by anuraghazra/github-readme-stats
+     Customization guide:
+     - Hide private contributions: &count_private=true|false
+     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
+     - Show icons: &show_icons=true
+     Docs: https://github.com/anuraghazra/github-readme-stats -->
+![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-k7&show_icons=true&theme=gruvbox)
+>
